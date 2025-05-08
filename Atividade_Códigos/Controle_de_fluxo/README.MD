@@ -1,5 +1,5 @@
-#Aula dia 30/05/2025
-##Atividades
+# Aula dia 30/05/2025
+## Atividades
 
 *Atividade 000: Tabuada com for*
 Solicite um número e exiba sua tabuada de 1 a 10.
