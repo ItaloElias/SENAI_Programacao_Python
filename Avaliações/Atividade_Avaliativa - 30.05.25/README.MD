@@ -1,5 +1,5 @@
-#Atividade Avaliativa dia 30/05/2025
-##Atividade Avaliativa
+# Atividade Avaliativa dia 30/05/2025
+## Atividade Avaliativa
 
 
 *Atividade 1 – Algoritmo com tomada de decisão (lógica básica)*
