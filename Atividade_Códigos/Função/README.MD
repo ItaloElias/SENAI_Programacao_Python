@@ -35,5 +35,5 @@ A (90–100), B (80–89), C (70–79), D (60–69), F (0–59)
 
 ## Exercício 8: Jogo de par ou ímpar
 ### Enunciado:
- Faça um jogo entre o usuário e o computador (número entre 0 e 10). O usuário escolhe par ou ímpar e o número. Quem vencer?
+ Faça um jogo entre o usuário e o computador (número entre 0 e 10). O usuário escolhe par ou ímpar e o número. Quem vencer? 
 dica: use a função random
